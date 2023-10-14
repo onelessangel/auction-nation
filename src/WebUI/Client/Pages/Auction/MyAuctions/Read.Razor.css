@@ -1,0 +1,13 @@
+﻿table {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    margin: 0;
+}
+
+.biddingHistoryTable tbody tr:last-child {
+    background-color: #F0F8FF;
+    font-weight: bold;
+}
